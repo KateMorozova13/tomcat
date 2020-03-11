@@ -1,6 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
-<p>I love Godel</p>
+<h2>Okay, you can copy artifact over ssh </h2>
 </body>
 </html>
